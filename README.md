@@ -22,7 +22,7 @@ Este projeto é uma implementação de um sistema de e-commerce com foco em uma 
 
 ## Compilação e Execução do Projeto
 
-1. Baixar o projeto e extrair os arquivos para a sua máquina.
+1. Clone o repositório para sua máquina local.
 2. Abrir a solução no Visual Studio (recomendada a versão 2022 ou superior).
 3. Configurar a conexão com o banco de dados no arquivo `appsettings.json`.
 4. No Console do Gerenciador de Pacotes, executar o comando: `Update-Database`, para criar as tabelas no banco de dados.
